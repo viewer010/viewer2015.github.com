@@ -1,3 +1,0 @@
-
-1.配置本地markdown环境，sublime2+markdown preview，教程 http://www.jianshu.com/p/378338f10263
-2.为啥要用sublime2，主要是因为sublime3无法安装package Control，
